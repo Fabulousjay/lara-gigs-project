@@ -1,5 +1,4 @@
 <?php
-dd('API routes loaded');
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
